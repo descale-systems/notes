@@ -1,4 +1,4 @@
-# Notes from Descale Systems events
+# Notes from Descale events
 
 This repository contains any notes that were taken from a descale
 event.
